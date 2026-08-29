@@ -1,8 +1,12 @@
 # Bitq
 
-## Clock
+## SAP-1 Architecture
 
-### Resources
+![SAP1-ARCH](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/sap1-architecture.png)
+
+### Clock
+
+#### Resources
 
 > Ben Eater
 >
