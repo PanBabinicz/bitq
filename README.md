@@ -18,3 +18,7 @@
 > James Sharman
 >
 > https://www.youtube.com/watch?v=KEwL2P8IGaA&list=PLFhc0MFC8MiCDOh3cGFji3qQfXziB9yOw
+
+## References
+
+> Albert P. Malvino, Jerald A. Brown - Digital Computer Electronics
