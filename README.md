@@ -6,6 +6,8 @@
 
 ### Clock
 
+![ICM7555-FUNC-DIAGRAM](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/clock_icm7555_func_diagram.png)
+
 #### Resources
 
 > Ben Eater
