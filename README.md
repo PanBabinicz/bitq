@@ -12,6 +12,8 @@
 
 #### Astable
 
+![ICM7555-ASTABLE](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/astable.png)
+
 >
 
 #### Monotstable
