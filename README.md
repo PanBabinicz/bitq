@@ -37,7 +37,14 @@ causing OUT to go low and the internal discharge transistor to go into saturatio
 
 #### Monotstable
 
->
+*Monostable mode produces an output pulse when the trigger signals drops below 1⁄3 VCC. An RC circuit sets
+the output pulse's duration as the time t in seconds it takes to charge C to 2⁄3 VCC*
+
+*t = ln(3)RC*
+
+*where R is the resistance in ohms, C is the capacitance in farads, ln(3) is the natural log of 3 constant.
+The output pulse duration can be lengthened or shortened as desired by adjusting the values of R and C. Subsequent
+triggering before the end of this timing interval will not affect the output pulse.*
 
 #### Bistable
 
