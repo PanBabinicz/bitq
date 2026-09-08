@@ -48,7 +48,16 @@ triggering before the end of this timing interval will not affect the output pul
 
 #### Bistable
 
->
+*A 555 timer can act as an active-low SR latch (though without an inverted Q output) with two outputs:
+output pin is a push-pull output, discharge pin is an open-collector output (requires a pull-up resistor).*
+
+*A Reset input signal connects to the RESET pin and connecting a Set input signal to the TR pin.
+Thus, pulling Set momentarily low acts as a "set" and transitions the output to the high state (VCC).
+Conversely, pulling Reset momentarily low acts as a "reset" and transitions the Out pin to the low state (GND).*
+
+*No timing capacitors are required in a bistable configuration. The threshold input is grounded because it is unused.
+The trigger and reset inputs may be held high via pull-up resistors if they are normally Hi-Z and only enabled
+by connecting to ground.*
 
 #### Resources
 
@@ -66,3 +75,5 @@ triggering before the end of this timing interval will not affect the output pul
 ## References
 
 > Albert P. Malvino, Jerald A. Brown - Digital Computer Electronics
+>
+> 555 Timer Wikipedia - https://en.wikipedia.org/wiki/555_timer_IC
