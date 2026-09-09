@@ -37,7 +37,7 @@ causing OUT to go low and the internal discharge transistor to go into saturatio
 
 ##### The astable configuration - prototype
 
-*Put GIF format here* 
+*Put GIF format here*
 
 #### Monotstable
 
