@@ -35,6 +35,10 @@ causing OUT to go low and the internal discharge transistor to go into saturatio
 
 *5. Once the capacitor's voltage drops below 1⁄3 VCC, the cycle repeats from step 1.*
 
+##### The astable configuration - prototype
+
+*Put GIF format here* 
+
 #### Monotstable
 
 *Monostable mode produces an output pulse when the trigger signals drops below 1⁄3 VCC. An RC circuit sets
