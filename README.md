@@ -39,6 +39,12 @@ causing OUT to go low and the internal discharge transistor to go into saturatio
 
 ![555NE-ASTABLE](https://github.com/PanBabinicz/bitq/blob/master/doc/gifs/555-astable.gif)
 
+![555NE-ASTABLE-WITHOUT-CAPS](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/555-without-caps.png)
+
+![555NE-ASTABLE-WITH-CAPS](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/555-with-caps.jpg)
+
+![555NE-ASTABLE-CLOCK](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/555-clock.png)
+
 #### Monotstable
 
 *Monostable mode produces an output pulse when the trigger signals drops below 1⁄3 VCC. An RC circuit sets
