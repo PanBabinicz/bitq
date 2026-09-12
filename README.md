@@ -47,6 +47,8 @@ causing OUT to go low and the internal discharge transistor to go into saturatio
 
 #### Monotstable
 
+![555NE-MONOSTABLE](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/monostable.png)
+
 *Monostable mode produces an output pulse when the trigger signals drops below 1⁄3 VCC. An RC circuit sets
 the output pulse's duration as the time t in seconds it takes to charge C to 2⁄3 VCC*
 
