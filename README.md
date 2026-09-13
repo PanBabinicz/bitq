@@ -37,11 +37,19 @@ causing OUT to go low and the internal discharge transistor to go into saturatio
 
 ##### The astable configuration - prototype
 
+##### 555NE astable operation
+
 ![555NE-ASTABLE](https://github.com/PanBabinicz/bitq/blob/master/doc/gifs/555-astable.gif)
+
+##### 555NE astable rising edge without decoupling capacitors
 
 ![555NE-ASTABLE-WITHOUT-CAPS](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/555-without-caps.png)
 
+##### 555NE astable rising edge with decoupling capacitors
+
 ![555NE-ASTABLE-WITH-CAPS](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/555-with-caps.jpg)
+
+##### 555NE astable clock
 
 ![555NE-ASTABLE-CLOCK](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/555-clock.png)
 
