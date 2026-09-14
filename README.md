@@ -68,6 +68,8 @@ triggering before the end of this timing interval will not affect the output pul
 
 #### Bistable
 
+![555NE-BISTABLE](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/bistable.png)
+
 *A 555 timer can act as an active-low SR latch (though without an inverted Q output) with two outputs:
 output pin is a push-pull output, discharge pin is an open-collector output (requires a pull-up resistor).*
 
