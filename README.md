@@ -66,6 +66,12 @@ the output pulse's duration as the time t in seconds it takes to charge C to 2‚Å
 The output pulse duration can be lengthened or shortened as desired by adjusting the values of R and C. Subsequent
 triggering before the end of this timing interval will not affect the output pulse.*
 
+##### The monostable configuration - prototype
+
+##### 555NE monostable operation
+
+*Monostable configuration gif placeholder*
+
 #### Bistable
 
 ![555NE-BISTABLE](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/bistable.png)
@@ -81,11 +87,11 @@ Conversely, pulling Reset momentarily low acts as a "reset" and transitions the 
 The trigger and reset inputs may be held high via pull-up resistors if they are normally Hi-Z and only enabled
 by connecting to ground.*
 
-##### The monostable configuration - prototype
+##### The bistable configuration - prototype
 
-##### 555NE monostable operation
+##### 555NE bistable operation
 
-*Monostable configuration gif placeholder*
+*Bistable configuration gif placeholder*
 
 #### Resources
 
