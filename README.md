@@ -81,6 +81,12 @@ Conversely, pulling Reset momentarily low acts as a "reset" and transitions the 
 The trigger and reset inputs may be held high via pull-up resistors if they are normally Hi-Z and only enabled
 by connecting to ground.*
 
+##### The monostable configuration - prototype
+
+##### 555NE monostable operation
+
+*Monostable configuration gif placeholder*
+
 #### Resources
 
 > Ben Eater
