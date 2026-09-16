@@ -70,7 +70,7 @@ triggering before the end of this timing interval will not affect the output pul
 
 ##### 555NE monostable operation
 
-*Monostable configuration gif placeholder*
+![555NE-MONOSTABLE](https://github.com/PanBabinicz/bitq/blob/master/doc/gifs/555-monostable.gif)
 
 #### Bistable
 
