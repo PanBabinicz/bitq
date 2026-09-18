@@ -102,6 +102,8 @@ by connecting to ground.*
 > https://www.youtube.com/watch?v=WCwJNnx36Rk&list=PLowKtXNTBypGqImE405J2565dvjafglHU&index=4
 > https://www.youtube.com/watch?v=SmQ5K7UQPMM&list=PLowKtXNTBypGqImE405J2565dvjafglHU&index=5
 > https://www.youtube.com/watch?v=KM0DdEaY5sY&list=PLowKtXNTBypGqImE405J2565dvjafglHU&index=6
+> https://www.youtube.com/watch?v=peCh_859q7Q&list=PLowKtXNTBypGqImE405J2565dvjafglHU&index=7
+> https://www.youtube.com/watch?v=YW-_GkUguMM&list=PLowKtXNTBypGqImE405J2565dvjafglHU&index=8
 
 > James Sharman
 >
