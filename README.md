@@ -6,4 +6,4 @@
 
 ### Clock
 
-Read the clock reference [reference](https://github.com/PanBabinicz/bitq/blob/master/doc/bitq_clk/README.md)
+Read the [clock reference](https://github.com/PanBabinicz/bitq/blob/master/doc/bitq_clk/README.md) for more information.
