@@ -2,7 +2,7 @@
 
 ## Astable
 
-![ICM7555-ASTABLE](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/astable.png)
+![555NE-ASTABLE](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/astable.png)
 
 *In the astable configuration, the 555 timer puts out a continuous stream of rectangular pulses
 having a specific period. The astable configuration is implemented using two resistors,
@@ -24,6 +24,8 @@ causing OUT to go low and the internal discharge transistor to go into saturatio
 *4. This discharge transistor provides a discharge path, so the capacitor starts discharging through R2.*
 
 *5. Once the capacitor's voltage drops below 1‚ÅÑ3 VCC, the cycle repeats from step 1.*
+
+![555NE-ASTABLE-TOP](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/astable_top.png)
 
 ### The astable configuration - prototype
 
@@ -56,6 +58,8 @@ the output pulse's duration as the time t in seconds it takes to charge C to 2‚Å
 The output pulse duration can be lengthened or shortened as desired by adjusting the values of R and C. Subsequent
 triggering before the end of this timing interval will not affect the output pulse.*
 
+![555NE-MONOSTABLE-TOP](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/monostable_top.png)
+
 ### The monostable configuration - prototype
 
 ### 555NE monostable operation
@@ -77,11 +81,19 @@ Conversely, pulling Reset momentarily low acts as a "reset" and transitions the 
 The trigger and reset inputs may be held high via pull-up resistors if they are normally Hi-Z and only enabled
 by connecting to ground.*
 
+![555NE-BISTABLE-TOP](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/bistable_top.png)
+
 ### The bistable configuration - prototype
 
 ### 555NE bistable operation
 
-*Bistable configuration gif placeholder*
+#### OFF
+
+![555NE-BISTABLE-OFF](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/bistable_off.png)
+
+#### ON
+
+![555NE-BISTABLE-ON](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/bistable_on.png)
 
 ## Resources
 
