@@ -1,5 +1,7 @@
 # Bitq Clock
 
+*The CPU clock acts as the heartbeat of a computer processor. It provides a steady rhythm of electrical pulses to synchronize all of its hardware components*
+
 ## Astable
 
 ![555NE-ASTABLE](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/astable.png)
@@ -94,6 +96,16 @@ by connecting to ground.*
 #### ON
 
 ![555NE-BISTABLE-ON](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/bistable_on.png)
+
+### Clock logic
+
+#### Astable mode selected
+
+![CLOCK-LOGIC-ASTABLE](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/clock_logic_astable.png)
+
+#### Monostable mode selected
+
+![CLOCK-LOGIC-MONOSTABLE](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/clock_logic_monostable.png)
 
 ## Resources
 
