@@ -107,6 +107,10 @@ by connecting to ground.*
 
 ![CLOCK-LOGIC-MONOSTABLE](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/clock_logic_monostable.png)
 
+#### Build with NAND logic
+
+![CLOCK-LOGIC-NAND](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/clock_logic_on_nand_gates.png)
+
 ## Resources
 
 > Ben Eater
