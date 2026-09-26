@@ -111,7 +111,7 @@ by connecting to ground.*
 
 #### Build with NAND logic
 
-![CLOCK-LOGIC-NAND](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/clock_logic_on_nand_gates.png)
+![CLOCK-LOGIC-NAND](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/clock_logic_halt.png)
 
 ## Resources
 
