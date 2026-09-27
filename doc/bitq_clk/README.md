@@ -99,6 +99,8 @@ by connecting to ground.*
 
 ### Clock logic
 
+#### Build with NAND logic
+
 #### Astable mode selected
 
 ![CLOCK-LOGIC-ASTABLE](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/clock_logic_astable.png)
@@ -109,9 +111,9 @@ by connecting to ground.*
 ![CLOCK-LOGIC-MONOSTABLE](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/clock_logic_monostable.png)
 ![CLOCK-LOGIC-MONOSTABLE-GIF](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/clock_logic_monostable_gif.gif)
 
-#### Build with NAND logic
+#### Halt mode selected
 
-![CLOCK-LOGIC-NAND](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/clock_logic_halt.png)
+![CLOCK-LOGIC-HALT](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/clock_logic_halt.png)
 
 ## Resources
 
