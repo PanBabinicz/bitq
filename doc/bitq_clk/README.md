@@ -2,6 +2,8 @@
 
 *The CPU clock acts as the heartbeat of a computer processor. It provides a steady rhythm of electrical pulses to synchronize all of its hardware components*
 
+![CLOCK-MODULE](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/clock_module.jpg)
+
 ## Astable
 
 ![555NE-ASTABLE](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/astable.png)
