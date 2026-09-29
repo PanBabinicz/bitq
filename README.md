@@ -13,3 +13,7 @@ all at once, we will examine three different generations of the SAP computer.*
 ### Clock
 
 Read the [clock reference](https://github.com/PanBabinicz/bitq/blob/master/doc/bitq_clk/README.md) for more information.
+
+### Registers
+
+Read the [registers reference](https://github.com/PanBabinicz/bitq/blob/master/doc/bitq_regs/README.md) for more information.
