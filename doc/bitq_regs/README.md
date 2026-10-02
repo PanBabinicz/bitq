@@ -22,8 +22,8 @@ it must be avoided to have both inputs low at the same time.*
 
 *The clock is a square-wave signal. Because the clock (abbreviated CLK) drives both NAND gates, a low
 CLK prevents S and R from controlling the latch. If a high S and a low R drive the gate inputs,
-the latch must wait until the clock goes high before @ can be set to 1. Similarly, given a low S
-and a high R, the latch must wait for a high CLK before @ can reset to 0. This is an example of positive
+the latch must wait until the clock goes high before Q can be set to 1. Similarly, given a low S
+and a high R, the latch must wait for a high CLK before Q can reset to 0. This is an example of positive
 clocking, making a latch wait until the clock signal is high before the output can change.*
 
 ![NAND-SR-LATCH](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/nand_sr_latch_clk.png)
