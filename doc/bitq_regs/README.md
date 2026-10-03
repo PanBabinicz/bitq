@@ -26,9 +26,11 @@ the latch must wait until the clock goes high before Q can be set to 1. Similarl
 and a high R, the latch must wait for a high CLK before Q can reset to 0. This is an example of positive
 clocking, making a latch wait until the clock signal is high before the output can change.*
 
-![NAND-SR-LATCH](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/nand_sr_latch_clk.png)
+![NAND-SR-LATCH-CLK](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/nand_sr_latch_clk.png)
 
 ### D Latch
+
+![NAND-D-LATCH](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/nand_d_latch.png)
 
 ## Instruction register
 
