@@ -30,6 +30,9 @@ clocking, making a latch wait until the clock signal is high before the output c
 
 ### D Latch
 
+*The RS flip-flop is susceptible to a race condition. The design can be modified to eliminate the possibility
+of a race condition. The result is a new kind of flip-flop known as a D latch.*
+
 ![NAND-D-LATCH](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/nand_d_latch.png)
 
 ## Instruction register
