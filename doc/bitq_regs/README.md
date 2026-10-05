@@ -18,6 +18,8 @@ it must be avoided to have both inputs low at the same time.*
 
 ![NAND-SR-LATCH](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/nand_sr_latch.png)
 
+![NAND-SR-LATCH-BB](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/nand_sr_latch_bb.jpg)
+
 #### NAND SR Latch Clocked
 
 *The clock is a square-wave signal. Because the clock (abbreviated CLK) drives both NAND gates, a low
