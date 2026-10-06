@@ -39,6 +39,8 @@ of a race condition. The result is a new kind of flip-flop known as a D latch.*
 
 ![NAND-D-LATCH](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/nand_d_latch.png)
 
+![NAND-D-LATCH-BB](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/nand_d_latch_bb.jpg)
+
 #### NAND D Latch Clocked
 
 ![NAND-D-LATCH-CLK](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/nand_d_latch_clk.png)
