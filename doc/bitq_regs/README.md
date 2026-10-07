@@ -43,6 +43,10 @@ of a race condition. The result is a new kind of flip-flop known as a D latch.*
 
 #### NAND D Latch Clocked
 
+*A low CLK disables the input gates and prevents the latch from changing states. In other
+words, while CLK is low, the latch is in the inactive state and the circuit stores or remembers.
+When CLK is high, D controls the output. A high D sets the latch, while a low D resets it.*
+
 ![NAND-D-LATCH-CLK](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/nand_d_latch_clk.png)
 
 ## Instruction register
