@@ -49,6 +49,17 @@ When CLK is high, D controls the output. A high D sets the latch, while a low D 
 
 ![NAND-D-LATCH-CLK](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/nand_d_latch_clk.png)
 
+#### NAND D Latch Edge Triggered
+
+*The RC circuit is placed at the input of a D flip-flop. By deliberate design, the RC time
+constant is much smaller than the clock's pulse width. Because of this, the capacitor can
+charge fully when CLK goes high. This exponential charging produces a narrow positive voltage
+spike across the resistor. Later, the trailing edge of the clock pulse results in a narrow
+negative spike. The narrow positive spike enables the input gates for an instant. The narrow
+negative spike does nothing. The effect is to activate the input gates during the positive spike,
+equivalent to sampling the value of D for an instant. At this unique time, D and its complement
+hit the flip-flop inputs, forcing & to set or reset.*
+
 ## Instruction register
 
 *The instruction register is part of the control unit. To fetch an instruction from the memory the computer does a memory read operation.
