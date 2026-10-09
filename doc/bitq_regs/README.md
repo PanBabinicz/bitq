@@ -60,6 +60,11 @@ negative spike does nothing. The effect is to activate the input gates during th
 equivalent to sampling the value of D for an instant. At this unique time, D and its complement
 hit the flip-flop inputs, forcing & to set or reset.*
 
+*When a circuit is edge-triggered, the output can change only on the rising (or falling) edge
+of the clock. But when the circuit is level-clocked, the output can change while the clock is
+high (or low). With edge triggering, the output can change only at one instant during the clock
+cycle. With level clocking, the output can change during an entire half cycle of the clock.*
+
 ## Instruction register
 
 *The instruction register is part of the control unit. To fetch an instruction from the memory the computer does a memory read operation.
