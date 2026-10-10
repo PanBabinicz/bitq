@@ -65,6 +65,15 @@ of the clock. But when the circuit is level-clocked, the output can change while
 high (or low). With edge triggering, the output can change only at one instant during the clock
 cycle. With level clocking, the output can change during an entire half cycle of the clock.*
 
+### JK Flip-Flops
+
+*When it comes to circuits that count, the JK flip-flop is ideal memory element to use*
+
+#### Inactive
+
+*When J and K are low, both input gates are disabled and the circuit is inactive at all times including
+the rising edge of the clock.*
+
 ## Instruction register
 
 *The instruction register is part of the control unit. To fetch an instruction from the memory the computer does a memory read operation.
