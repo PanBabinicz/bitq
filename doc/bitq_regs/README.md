@@ -74,6 +74,10 @@ cycle. With level clocking, the output can change during an entire half cycle of
 *When J and K are low, both input gates are disabled and the circuit is inactive at all times including
 the rising edge of the clock.*
 
+#### Set
+
+![NAND-JK-FLIP-FLOP-SET](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/nand_jk_flip_flop_set.png)
+
 ## Instruction register
 
 *The instruction register is part of the control unit. To fetch an instruction from the memory the computer does a memory read operation.
