@@ -76,6 +76,14 @@ the rising edge of the clock.*
 
 #### Set
 
+*When J is high and K is low, the lower gate is disabled;
+so it's impossible to reset the flip-flop. But you can set the
+flip-flop as follows. When Q is low, ~Q is high; therefore,
+the upper gate passes a set trigger on the positive clock
+edge. This drives Q into the high state. That is, J = 1 and
+K = 0 means that the next positive clock edge sets the
+Alip-flop.*
+
 ![NAND-JK-FLIP-FLOP-SET](https://github.com/PanBabinicz/bitq/blob/master/doc/screenshots/nand_jk_flip_flop_set.png)
 
 ## Instruction register
